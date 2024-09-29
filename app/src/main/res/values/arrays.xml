@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item>Patient</item>
+        <item>Doctor</item>
+    </string-array>
+    <string-array name="planets_array2" >
+        <item>Consultation</item>
+        <item>Hospitalisation</item>
+    </string-array>
+    <!--Medical Problems-->
+    <string-array name="medicalProblems">
+        <item>Fever</item>
+        <item>Headache</item>
+        <item>Cold and Cough</item>
+        <item>Vomiting</item>
+        <item>Constipation</item>
+        <item>Blood Pressure</item>
+        <item>Daily Health Care</item>
+    </string-array>
+
+</resources>

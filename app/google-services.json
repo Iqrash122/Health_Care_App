@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "524462015122",
+    "firebase_url": "https://medi-first-default-rtdb.firebaseio.com",
+    "project_id": "medi-first",
+    "storage_bucket": "medi-first.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524462015122:android:a087360ac34eddbf949c4b",
+        "android_client_info": {
+          "package_name": "com.mediFirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524462015122-m5et7g9ksa6gefv369aho6amiauel8ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwT7pU-hhJQVwd63fkAsraHVBUwuhdbvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524462015122-m5et7g9ksa6gefv369aho6amiauel8ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
